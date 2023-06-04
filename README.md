@@ -1,7 +1,7 @@
-### Hi there, I am Abdelrhman 👋
-- 🔭 I’m currently a CS Student 
-- 🌱 I’m currently learning Web_dev, DevOps, Algorithms & Machine Learning.
-- 📫 How to reach me: https://abdelrahmankhatab.bio.link/
+### Hi there, I am Abdelrhman Khatab | AK 
+- I’m currently a CS Student 
+- I’m currently learning Web_dev, DevOps, Algorithms . 🌱
+- How to reach me: https://abdelrahmankhatab.bio.link/ 📫
 Thanks :) 
 
 <!--
