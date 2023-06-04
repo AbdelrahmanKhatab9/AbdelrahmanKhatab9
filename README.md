@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Abdelrhman 👋
+- 🔭 I’m currently a CS Student 
+- 🌱 I’m currently learning Web_dev, DevOps, Algorithms & Machine Learning.
+- 📫 How to reach me: https://abdelrahmankhatab.bio.link/
+Thanks :) 
 
 <!--
 **AbdelrahmanKhatab9/AbdelrahmanKhatab9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
