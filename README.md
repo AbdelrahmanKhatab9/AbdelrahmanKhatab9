@@ -4,9 +4,10 @@
 - How to reach me: https://abdelrahmankhatab.bio.link/ 📫 Thanks :) 
   
   
-[![wakatime](https://wakatime.com/badge/user/120279a8-701b-49cf-bef7-fa8dfa608111.svg)](https://wakatime.com/@120279a8-701b-49cf-bef7-fa8dfa608111)
 
 <!--
+[![wakatime](https://wakatime.com/badge/user/120279a8-701b-49cf-bef7-fa8dfa608111.svg)](https://wakatime.com/@120279a8-701b-49cf-bef7-fa8dfa608111)
+
 **AbdelrahmanKhatab9/AbdelrahmanKhatab9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
